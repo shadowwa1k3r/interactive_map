@@ -1,0 +1,34 @@
+body {
+
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+}
+
+.area {
+    border: 1px dashed black;
+
+}
+
+.circle {
+    height: 200px;
+    width: 200px;
+    background-color: navajowhite;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+}
+
+.rectangle {
+    background-color: navajowhite;
+    height: 150px;
+    width: 250px;
+    position: relative;
+}
+
+.text-area {
+    float: right;
+    position: relative;
+}
